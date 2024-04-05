@@ -1,0 +1,23 @@
+.skillsContainer {
+    margin: 20px;
+    padding: 20px;
+    border-left: 4px solid #007bff; /* Blue border for a bit of color */
+    background-color: #f8f9fa; /* Light background */
+  }
+  
+  .heading {
+    color: #007bff; /* Matching blue for heading */
+    margin-bottom: 15px; /* Spacing below the heading */
+    text-align: center; /* Centering the heading */
+  }
+  
+  .skillsList {
+    list-style-type: none; /* Removes default bullet points */
+    padding: 0; /* Removes default padding */
+  }
+  
+  .skillItem {
+    margin-bottom: 5px; /* Spacing between skills */
+    color: #212529; /* Slightly darker font color for better readability */
+  }
+  

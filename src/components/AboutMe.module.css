@@ -1,0 +1,19 @@
+.aboutContainer {
+    margin: 20px;
+    padding: 20px;
+    border-left: 4px solid #007bff; /* Blue border for a bit of color */
+    background-color: #f8f9fa; /* Light background */
+  }
+  
+  .heading {
+    color: #007bff; /* Matching blue for heading */
+    margin-bottom: 15px; /* Spacing below the heading */
+    text-align: center; /* Centering the heading */
+  }
+  
+  .paragraph {
+    margin-bottom: 10px; /* Spacing between paragraphs */
+    line-height: 1.6; /* Improved readability */
+    color: #212529; /* Slightly darker font color for better readability */
+  }
+  

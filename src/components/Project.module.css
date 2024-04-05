@@ -1,0 +1,21 @@
+.projectsContainer {
+    margin: 20px;
+    padding: 20px;
+    border-left: 4px solid #007bff; /* Blue border for a bit of color */
+    background-color: #f8f9fa; /* Light background */
+  }
+  
+  .heading {
+    color: #007bff; /* Matching blue for heading */
+    margin-bottom: 15px; /* Spacing below the heading */
+    text-align: center; /* Centering the heading */
+  }
+  
+  .projectItem {
+    margin-bottom: 20px; /* Spacing between projects */
+  }
+  
+  .link {
+    color: #007bff; /* Blue color for links to match the theme */
+  }
+  

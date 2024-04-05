@@ -1,0 +1,22 @@
+.experienceContainer {
+    margin: 20px;
+    padding: 20px;
+    border-left: 4px solid #007bff; /* Blue border for a bit of color */
+    background-color: #f8f9fa; /* Light background */
+  }
+  
+  .title {
+    color: #007bff; /* Matching blue for titles */
+    margin-bottom: 5px;
+  }
+  
+  .period {
+    font-style: italic;
+    color: #6c757d; /* Gray for period */
+    margin-bottom: 10px;
+  }
+  
+  .responsibility {
+    margin-left: 20px; /* Indent for readability */
+  }
+  
